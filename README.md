@@ -1,4 +1,4 @@
-# Closest-Pharmacy-Code-Challenege
+# Sample-Code
 This project calculates the nearest pharmacy for the given latitude and longitude locations.
 
 # Configuration
